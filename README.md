@@ -24,31 +24,37 @@ apt install git OR pkg install git<br><br>
 
 ### Install:🚫<br><br>
 
-#### step-1
+#### STEP-1
 ```
 git clone https://github.com/mahendraplus/B4Bomber
 ```
 
-#### step-2
+#### STEP-2
 ```
 cd B4Bomber
 ```
-#### step-3
+#### STEP-3
 ```
 unzip B4Bomber_v1.1.zip
 ```
-#### step-4
+#### STEP-4
 ```
 cd B4Bomber_v1.1
 ```
-#### step-5
+#### STEP-5
 ```
-chmod 778 run.sh
+chmod 777 run.sh
 ```
-#### step-6
+#### STEP-6
 ```
 ./run.sh
 ```
+### Screenshot:🚫
+
+![alt text](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Screenshot_2021-05-12-15-57-46-32.png "use")<br>
+
+![alt text](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Screenshot_2021-05-12-16-13-43-60.png "pic2")
+
 
 
 
