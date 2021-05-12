@@ -4,7 +4,7 @@ cd
 wget https://github.com/mahendraplus/B4Bomber/raw/main/B4Bomber_v1.1.zip
 echo "Wait..."
 sleep 1
-unzip B4Bomber_v1.1.zip
+unzip B4Bomber_v1.1.zip B4Bomber
 rm -rf B4Bomber_v1.1.zip
 cd B4Bomber
 chmod 777 run.sh
