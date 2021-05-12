@@ -1,13 +1,13 @@
 # B4Bomber_V1.1 👩‍💻
-<center>
+<p align="center">
 <img src="https://img.icons8.com/cute-clipart/64/000000/grenade.png"/>
-</center>
+</P>
 
 ### Note:🚫
-##### Use For Fun 😜 Not For Revenge 😡
+Use For Fun 😜 Not For Revenge 😡
 
 ### Requirements:🚫
-Download Termux: [Click Here 📥](https://play.google.com/store/apps/details?id=com.termux)  <br><br>
+➥ DOWNLOAD TERMUX: [Click Here 📥](https://play.google.com/store/apps/details?id=com.termux)  <br><br>
 ➥ STORAGE PERMISSION <br>
 termux-setup-storage<br>
 <br>
