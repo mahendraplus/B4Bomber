@@ -6,6 +6,14 @@
 ### Note:🚫
 Use For Fun 😜 Not For Revenge 😡
 
+
+### Direct install :🚫
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/install.sh)"
+```
+
+
+
 ### Requirements:🚫
 ➥ DOWNLOAD TERMUX: [Click Here 📥](https://play.google.com/store/apps/details?id=com.termux)  <br><br>
 ➥ STORAGE PERMISSION <br>
