@@ -7,7 +7,7 @@
 Use For Fun 😜 Not For Revenge 😡
 
 
-### Direct install :🚫
+### Automatic Install :🚫
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/install.sh)"
 ```
@@ -30,7 +30,7 @@ apt install unzip OR pkg install unzip<br><br>
 ➥  GIT <br>
 apt install git OR pkg install git<br><br>
 
-### Install:🚫<br><br>
+### Manual Install:🚫<br><br>
 
 #### STEP-1
 ```
