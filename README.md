@@ -19,6 +19,36 @@ apt install curl   OR  pkg install curl <br><br>
 ➥ ZIP & UNZIP
 apt install unzip OR pkg install unzip<br><br>
 
+➥  GIT <br>
+apt install git OR pkg install git<br><br>
+
 ### Install:🚫<br><br>
+
+#### step-1
+```
+git clone https://github.com/mahendraplus/B4Bomber
+```
+
+#### step-2
+```
+cd B4Bomber
+```
+#### step-3
+```
+unzip B4Bomber_v1.1.zip
+```
+#### step-4
+```
+cd B4Bomber_v1.1
+```
+#### step-5
+```
+chmod 778 run.sh
+```
+#### step-6
+```
+./run.sh
+```
+
 
 
