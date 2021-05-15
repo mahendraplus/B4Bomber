@@ -2,6 +2,8 @@
 clear
 apt install curl
 apt install wget
+apt install git
+apt install unzip
 clear
 sleep 1
 cd
