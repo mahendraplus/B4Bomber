@@ -1,9 +1,9 @@
 #!/bin/bash
 clear
-apt install curl
-apt install wget
-apt install git
-apt install unzip
+pkg install curl
+pkg install wget
+pkg install git
+pkg install unzip
 sleep 1
 cd
 wget https://github.com/mahendraplus/B4Bomber/raw/main/B4Bomber_v1.1.zip
