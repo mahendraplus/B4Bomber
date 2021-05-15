@@ -1,5 +1,7 @@
 #!/bin/bash
 clear
+apt update
+pkg update
 pkg install curl
 pkg install wget
 pkg install git
