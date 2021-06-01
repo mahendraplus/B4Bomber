@@ -50,13 +50,18 @@ chmod 777 b4bomber
 
 
 ### How To Run On Linux-PC :🚫<br><br>
-#### Linux-PC Requirement:🚫
+
+#### Linux-PC Requirement:🚫<br>
+
 ➥ UPDATE & UPGRADE <br>
-sudo apt-get update && sudo apt-get upgrade
-➥ CURL<br>
-sudo apt install curl
+sudo apt-get update && sudo apt-get upgrade <br>
+
+➥ CURL <br>
+sudo apt install curl  <br>
+
 ➥  GIT <br>
 sudo apt install git <br>
+
 #### STEP-1
 ```
 git clone https://github.com/mahendraplus/B4Bomber
