@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod 777 /data/data/com.termux/files/home/B4Bomber/Termux/b4bomber
+/data/data/com.termux/files/home/B4Bomber/Termux/b4bomber
