@@ -83,9 +83,9 @@ chmod 777 b4bomber
 ```
 ./b4bomber
 ```
-
+<br><br>
 ### Screenshot:🚫
-
+Tested on Realme U1, deepin os
 ![alt text](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Screenshot_2021-05-12-15-57-46-32.png "use")<br>
 
 ![alt text](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Screenshot_2021-05-12-16-13-43-60.png "pic2")
