@@ -1,5 +1,6 @@
 #!/bin/bash
 cd
+pkg update
 pkg install git
 git clone https://github.com/mahendraplus/B4Bomber
 chmod 777 B4Bomber/Termux/b4bomber
