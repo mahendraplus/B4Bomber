@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "B4Bomber Starting..."
+echo "B4Bomber Startin..."
 sleep 2
-/data/data/com.termux/files/home/B4Bomber/Termux/b4bomber
+cd /data/data/com.termux/files/home/B4Bomber/Termux
+./b4bomber
