@@ -1,8 +1,6 @@
 #!/bin/bash
 cd
-apt install git && pkg install git
-apt install curl && pkg install curl
-
+pkg install git
 git clone https://github.com/mahendraplus/B4Bomber
 chmod 777 B4Bomber/Termux/b4bomber
 mv B4Bomber/Termux/b4b /data/data/com.termux/files/usr/bin
