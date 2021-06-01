@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "B4Bomber Startin..."
+echo "B4b∅mBeR 💥 sTaRtiNg..."
 sleep 2
 cd /data/data/com.termux/files/home/B4Bomber/Termux
 ./b4bomber
