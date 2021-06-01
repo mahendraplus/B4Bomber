@@ -1,4 +1,4 @@
-# B4Bomber_V1.1 👩‍💻
+# B4Bomber_ 👩‍💻
 <p align="center">
 <img src="https://img.icons8.com/cute-clipart/64/000000/grenade.png"/>
 </P>
@@ -6,15 +6,7 @@
 ### Note:🚫
 Use For Fun 😜 Not For Revenge 😡
 
-
-### Automatic Install :🚫
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/install.sh)"
-```
-
-
-
-### Requirements:🚫
+### Termux Requirement:🚫
 ➥ DOWNLOAD TERMUX: [Click Here 📥](https://play.google.com/store/apps/details?id=com.termux)  <br><br>
 ➥ STORAGE PERMISSION <br>
 termux-setup-storage<br>
@@ -24,13 +16,10 @@ apt-get update && apt-get upgrade && apt-get dist-upgrade && apt-get autoremove 
 <br><br>
 ➥ CURL<br>
 apt install curl   OR  pkg install curl <br><br>
-➥ ZIP & UNZIP
-apt install unzip OR pkg install unzip<br><br>
-
 ➥  GIT <br>
 apt install git OR pkg install git<br><br>
 
-### Manual Install:🚫<br><br>
+### How To Run On Termux :🚫<br><br>
 
 #### STEP-1
 ```
@@ -43,20 +32,50 @@ cd B4Bomber
 ```
 #### STEP-3
 ```
-unzip B4Bomber_v1.1.zip
+cd Termux
 ```
 #### STEP-4
 ```
-cd B4Bomber_v1.1
+chmod 777 b4bomber
 ```
 #### STEP-5
 ```
-chmod 777 run.sh
+./b4bomber
 ```
-#### STEP-6
+
+### Linux-PC Requirement:🚫
+
+➥ UPDATE & UPGRADE <br>
+sudo apt-get update && sudo apt-get upgrade
+➥ CURL<br>
+sudo apt install curl
+➥  GIT <br>
+sudo apt install git
+
+### How To Run On Linux-PC :🚫<br><br>
+
+#### STEP-1
 ```
-./run.sh
+git clone https://github.com/mahendraplus/B4Bomber
 ```
+
+#### STEP-2
+```
+cd B4Bomber
+```
+#### STEP-3
+```
+cd Linux-pc
+```
+#### STEP-4
+```
+chmod 777 b4bomber
+```
+#### STEP-5
+```
+./b4bomber
+```
+
 ### Screenshot:🚫
 
 ![alt text](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Screenshot_2021-05-12-15-57-46-32.png "use")<br>
