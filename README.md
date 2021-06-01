@@ -9,6 +9,11 @@ Use For Fun 😜 Not For Revenge 😡
 
 ### How To Run On Termux :🚫<br><br>
 
+#### Instant Run Only For Termux :🚫
+```
+curl https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Termux/install.sh | bash
+```
+
 #### Termux Requirement:🚫
 
 ➥ DOWNLOAD TERMUX: [Click Here 📥](https://play.google.com/store/apps/details?id=com.termux)  <br><br>
@@ -46,7 +51,6 @@ chmod 777 b4bomber
 ```
 
 <br><br>
-
 
 
 ### How To Run On Linux-PC :🚫<br><br>
