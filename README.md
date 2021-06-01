@@ -9,7 +9,7 @@ Use For Fun 😜 Not For Revenge 😡
 
 ### How To Run On Termux :🚫<br><br>
 
-### Instant Run => Only For Termux :🚫
+### Instant Run ∅n=> Termux :🚫
 ```
 curl https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Termux/install.sh | bash
 ```
