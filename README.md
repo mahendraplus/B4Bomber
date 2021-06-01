@@ -56,7 +56,7 @@ sudo apt-get update && sudo apt-get upgrade
 ➥ CURL<br>
 sudo apt install curl
 ➥  GIT <br>
-sudo apt install git 
+sudo apt install git <br>
 #### STEP-1
 ```
 git clone https://github.com/mahendraplus/B4Bomber
