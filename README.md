@@ -6,7 +6,11 @@
 ### Note:🚫
 Use For Fun 😜 Not For Revenge 😡
 
-### Termux Requirement:🚫
+
+### How To Run On Termux :🚫<br><br>
+
+#### Termux Requirement:🚫
+
 ➥ DOWNLOAD TERMUX: [Click Here 📥](https://play.google.com/store/apps/details?id=com.termux)  <br><br>
 ➥ STORAGE PERMISSION <br>
 termux-setup-storage<br>
@@ -18,8 +22,6 @@ apt-get update && apt-get upgrade && apt-get dist-upgrade && apt-get autoremove 
 apt install curl   OR  pkg install curl <br><br>
 ➥  GIT <br>
 apt install git OR pkg install git<br><br>
-
-### How To Run On Termux :🚫<br><br>
 
 #### STEP-1
 ```
@@ -43,17 +45,18 @@ chmod 777 b4bomber
 ./b4bomber
 ```
 
-### Linux-PC Requirement:🚫
 
+
+
+
+### How To Run On Linux-PC :🚫<br><br>
+#### Linux-PC Requirement:🚫
 ➥ UPDATE & UPGRADE <br>
 sudo apt-get update && sudo apt-get upgrade
 ➥ CURL<br>
 sudo apt install curl
 ➥  GIT <br>
-sudo apt install git
-
-### How To Run On Linux-PC :🚫<br><br>
-
+sudo apt install git 
 #### STEP-1
 ```
 git clone https://github.com/mahendraplus/B4Bomber
