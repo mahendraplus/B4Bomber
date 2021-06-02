@@ -11,7 +11,8 @@ Use For Fun 😜 Not For Revenge 😡
 
 ### Instant Run ∅n=> Termux :🚫
 ```
-curl https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Termux/install.sh | bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/Termux/install.sh)"
+
 ```
 
 #### Termux Requirement:🚫
