@@ -1,7 +1,10 @@
 {
 "update":"1.2.4",
 "release":"10/08/2024",
-"title":" max test",
-"description":"Bug fixed, added new api",
-"link":"https://github.com/mahendraplus/Test/raw/Max/apk/B4BOMBER_release.unsigned.apk"
+"title":"New Update ",
+"description":"🔹 UI Overhaul: Fresh and intuitive design! 🎨 
+🔹 Bug Fixes: Improved stability and performance. 🐞
+🔹 Numbers Shield Defender: Enhanced protection for your numbers. 🛡️
+🔹 New APIs Added: SMS and calling API integration coming soon! 📲",
+"link":"https://github.com/mahendraplus/B4Bomber/releases/download/v1.2.4/B4BOMBER_V1.2.4.apk"
 }
