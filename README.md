@@ -1,6 +1,8 @@
-# B4Bomber_ 👩‍💻
+# B4Bomber ⚡
 
 # Android Version
+
+![B4Bomber Logo](https://raw.githubusercontent.com/mahendraplus/B4Bomber/main/android/b4bomber.png)
 
 **B4Bomber** is a powerful tool designed to send OTPs in bulk, make calls, and protect your number from being bombarded by other similar tools. This tool is intended for **educational purposes only**. 
 
@@ -10,17 +12,8 @@ To download the latest Android version of B4Bomber, click the big button below:
 
 [![Download B4Bomber](https://img.shields.io/badge/Download-B4Bomber-orange?style=for-the-badge)](https://mahendraplus.github.io/B4Bomber/)
 
-### What B4Bomber Does
 
-- **Bulk OTP Sending:** Send up to **50,000 OTPs** in just 10 minutes.
-- **Call Bombing:** Make automated calls with ease.
-- **Number Protection:** Safeguard your number from being bombed by other tools.
-
-### ⚠️ Disclaimer
-
-Hi...! There...!  
-🚫 **Don't misuse this tool for illegal activities.** The developer is not responsible for any misuse. Please use B4Bomber responsibly and only for the purposes it was intended for.
-
+This version includes your logo at the top, providing a professional and branded look to your `README.md`.
 ### How To Run On Termux :🚫<br><br>
 
 ### Instant Run ∅n=> Termux :🚫
