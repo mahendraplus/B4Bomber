@@ -1,6 +1,6 @@
 # B4Bomber_ 👩‍💻
 
-# B4Bomber - Android Version
+# Android Version
 
 **B4Bomber** is a powerful tool designed to send OTPs in bulk, make calls, and protect your number from being bombarded by other similar tools. This tool is intended for **educational purposes only**. 
 
