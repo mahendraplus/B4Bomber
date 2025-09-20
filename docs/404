@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    (async () => {
+      const jsonUrl = 'https://mahendraplus.github.io/assets/json/redirects.json';
+      const currentPath = window.location.pathname;
+      const errorPage = `https://mahendraplus.github.io/?p=error&t=Error-404&u=${encodeURIComponent(window.location.href)}`;
+      try {
+        const response = await fetch(jsonUrl);
+        if (response.ok) {
+          const redirects = await response.json();
+          window.location.replace(redirects[currentPath] || errorPage);
+        } else {
+          window.location.replace(errorPage);
+        }
+      } catch {
+        window.location.replace(errorPage);
+      }
+    })();
+  </script>
+</head>
+<body></body>
+</html>
